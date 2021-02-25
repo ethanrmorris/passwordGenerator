@@ -50,7 +50,7 @@ label {
 
 .character-amount-container {
   display: flex;
-  align-items: center;
+  align-items: left;
 }
 
 .number-input {
@@ -63,12 +63,12 @@ label {
   padding: 1rem;
   border: 1px solid rgb(58, 58, 58);
   height: 2rem;
-  width: 350px;
+  width: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
   word-break: break-all;
-  border-radius: 0.5rem;
+  border-radius: 1rem;
 }
 
 .btn {
